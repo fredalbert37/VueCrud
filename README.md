@@ -1,2 +1,0 @@
-# VueCrud
-Vuejs crud 
